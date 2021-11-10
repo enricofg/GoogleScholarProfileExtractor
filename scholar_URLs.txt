@@ -1,0 +1,7 @@
+# IMPORTANTE: Utilizar as URLs SEM o parâmetro PHP hl=en&. 
+# O uso do mesmo (ou qualquer parâmetro além de 'user') faz com que o utilitário descarregue a página de LOGIN da Google ao invés do perfil Scholar. Mesmo com o uso de plicas ou aspas (ou até uma combinação de ambas) este erro persistiu.
+# URL|HTML filename
+https://scholar.google.com/citations?user=Wj4ZBFIAAAAJ|DavidPatterson.html
+https://scholar.google.com/citations?user=JicYPdAAAAAJ|GeoffreyHinton.html
+https://scholar.google.com/citations?user=ZpG_cJwAAAAJ|YoshuaBengio.html
+# https://scholar.google.com/citations?user=mG4imMEAAAAJ|AndrewNg.html
